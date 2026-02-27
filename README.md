@@ -33,7 +33,7 @@ This dApp provides wallet connection options:
 - ✅ **Freighter Wallet (Testnet)**
 - ⏳ **Albedo (UI Option)**
 
-### 📸 Screenshot
+## 📸 Screenshot
 
 <img width="884" height="167" alt="Screenshot 2026-02-27 184458" src="https://github.com/user-attachments/assets/b5808e43-9ade-42af-aa6d-bb850d74f3c9" />
 
