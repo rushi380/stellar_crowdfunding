@@ -6,13 +6,6 @@ Users can connect their wallet, donate XLM to a campaign, and view transaction s
 
 ---
 
-## 🌐 Live Demo
-
-👉 https://your-vercel-link.vercel.app  
-*(Replace with your deployed frontend link)*
-
----
-
 ## 📌 Project Features
 
 - 🔌 Multi-wallet UI (Freighter supported)
